@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kwakhaewoong
-- 👀 I’m interested in ETL (Extraction - Transformation - Load) System with Big Data
+- 👨🏻‍💻 Hi, I’m @Kwak_Haewoong 
+- 👀 I’m interested in ETL (Extraction - Transformation - Load) System with Big Data turn into Synthethic Optional Data
 - 🌱 I’m currently learning Web Crawling + NLP interpretation + SNA (Social Network Analysis)
-- 💞️ I’m looking to collaborate on Big Data with Synthetic Data 
+- 🤝 I’m looking to collaborate on Big Data with Synthetic Data 
 - 📫 How to reach me hallowkinghts0568@gmail.com
 
 <!---
